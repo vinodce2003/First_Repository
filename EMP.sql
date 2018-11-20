@@ -6,3 +6,5 @@ create table dept(
 dept_no number,
 dept_name varchar2(30)
 );
+
+--- this is test ---
